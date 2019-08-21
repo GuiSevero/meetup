@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'meetup';
+  title = 'Poatek - AWS Meetup - 2019';
 }
